@@ -1,5 +1,3 @@
-# Interview-problem
-
 
 const balls = 
   { name: "Baseball",cost:$1},
